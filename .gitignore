@@ -1,0 +1,17 @@
+.DS_Store
+.Rhistory
+down_genes_blast.xml
+down_genes_tophits.txt
+README.md
+test.txt
+test_output
+down_genes_blast.xml
+up_genes_blast.xml
+down_genes_tophits.txt
+up_genes_tophits.txt
+down_int_gene_list2.txt
+up_int_gene_list2.txt
+down_int_output.txt
+up_int_output.txt
+Plodia_interpunctella_v1_-_proteins.fa
+output.txt
